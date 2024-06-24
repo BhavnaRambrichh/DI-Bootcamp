@@ -15,4 +15,5 @@ fig.savefig('my_figureEx5.png')
 
 plt.show()
 
-#Save both plots (from exercises 4 and 5) to your local machine as .png files. Use the savefig function from Matplotlib.
+#EXERCISE 6#Save both plots (from exercises 4 and 5) to your local machine as .png files. Use the savefig function from Matplotlib.
+# Answer: It is saved in the folder Pictures <==
